@@ -27,12 +27,4 @@ Ce projet a pour objectif de créer une infrastructure cloud évolutive et rési
 3. Configurer le pipeline CI/CD dans Azure DevOps.
 4. Lancer le pipeline pour déployer l'infrastructure sur Azure.
 
-## Contributeurs
-
-* kgodefroy28010400 , Konogan Godefroy
-* thia22010400      , Alex Thiebot
-
-## Licence
-
-kono et alex KAIZEN projet
 
